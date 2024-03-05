@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.full-pg{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.header{
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(245, 221, 3);
+    justify-content: center;
+    border-radius: 20px;
+    
+}
+
+.header h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+.parag{
+    width: 60%;
+    height: 100%;
+    margin: 10px;
+    background-color: rgba(189, 189, 185, 0.336);
+    border-radius: 20px;
+}
+
+.parag p, h3, h2, li{
+    margin: 30px;
+    text-align: justify;
+    padding-top: 25px;
+}
+
+.vid-link{
+    width: 30%;
+    margin: -970px;
+    padding-left: 137%;
+    padding-top: 90px;
+}
+
+.vid-link li{
+   margin: 0;
+   font-size: 14px;
+   padding-top: 10px;
+     
+}
+

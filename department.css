@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Quicksand, sans-serif;
+}
+/*--------------------------HEADER---------------------------*/
+header{
+    width: 100%;
+    height: 70vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.815)), url(images/bg\ 2.jpg);
+    display: flex;
+    background-size: cover;
+}
+
+.dep-logo{
+    width: 100%;
+    height: 50%;
+   /* box-shadow: -1px 0 10px #ffffff;
+    border-radius: 20px;
+    background-color: #8570e4;
+    padding: 20px 0;
+    justify-content: center;
+    */
+}
+
+.dep-logo p{
+    color: #fff;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+
+
+.dep-logo img{
+    width: 150px;
+    height: 150px;
+    padding-top: 130px;
+    margin-left: 35px;
+    
+}
+
+.dep-logo img:hover{
+    background-color: lightblue;
+}
+
+/*----------------------------WELCOME-------------------------*/
+.welcam{
+    width: 100%;
+    height: 100%;
+    margin: 70px;
+    text-align: center;
+    
+
+}
+
+.welcam h1{
+    font-size: 50Px;
+    color: blue;
+}
+
+.welcam p{
+    font-size: 18px;
+}
+
+/*------------------------------FOOTER-------------------------*/
+.foot{
+    margin: 150px 0px;
+    background-color: #04030a;
+    margin-bottom: -50px;
+   
+}
+
+.fta{
+    width: 100%;
+    height: 100%;
+}
+
+.fta h3{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.fta p{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 330px;
+    margin-top: 20px;
+
+}
+
+.cont h4{
+    color: #fff;
+    border: 1px solid #fff;
+    width: 15%;
+    text-align: center;
+    margin-left: 570px;
+    margin-top: 50px;
+}
+
+.cont p{
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+}
+.cont img{
+    width: 50px;
+    height: 50px;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+
+.copyrit{
+    width: 100%;
+    height: 100%;
+}
+.copyrit p{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+

@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Quicksand, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(56, 17, 1);
+}
+
+.container{
+    text-align: justify;
+    width: 50%;
+    padding-top: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-left: 25%;
+    height: 90vh;
+    background-color: rgb(255, 81, 0);
+    color: white;
+       
+}
+
+.container h1{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+.first-row{
+    padding-top: 25px;
+    margin-left: 50px;
+}
+
+.second-row{
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.third-row{
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.forth-row{
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.fifth-row{
+    padding-top: 20px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.input-field1{
+    height: 40px;
+    width: 300px;
+}
+
+
+
+.sixth-row{
+    padding-top: 20px;
+    margin-left: 50px;
+   
+}
+
+.seventh-row{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 300px;
+    height: 1vh;
+  
+}
+
+.seventh-row h3{
+    /*border: 1px solid rgb(0, 0, 0);*/
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+    margin-left: 100px;
+    color: black;
+}
+
+.seventh-row h3:hover{
+    border: rgb(255, 81, 0);
+    color: rgb(255, 81, 0);
+    cursor: pointer;
+    background-color: aliceblue;
+       
+}
+
+
+.input-field input{
+   height: 30px;
+   width: 500px;  
+}
+

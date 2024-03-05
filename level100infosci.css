@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 10;
+}
+body{
+    background-color: rgb(71, 2, 2);
+}
+.head h3{
+    padding-top: 40px;
+    text-align: center;
+    color: rgb(253, 207, 3);
+}
+.head P{
+    text-align: center;
+    color: rgb(253, 207, 3);
+}  
+
+table, th, td{
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid rgb(255, 253, 253);
+    text-align: center;
+    border-collapse: collapse;
+    color: rgb(255, 255, 255);
+}
+
+.tue{
+    padding-top: 40px;
+}
+
+.tue p{
+    text-align: center;
+    color: rgb(253, 207, 3);
+}
+
+.wed{
+    padding-top: 40px;
+}
+
+.wed P{
+    text-align: center;
+    color: rgb(253, 207, 3);
+}
+
+.thur{
+    padding-top: 40px;
+}
+
+.thur P{
+    text-align: center;
+    color: rgb(253, 207, 3);
+}
+
+.fri{
+    padding-top: 40px;
+}
+
+.fri P{
+    text-align: center;
+    color: rgb(253, 207, 3);
+}
